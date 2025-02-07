@@ -1,0 +1,25 @@
+in Terminal/Powershell:
+
+download ollama: https://ollama.com
+install llama 3.2 (or other LLMs):
+ollama run llama3.2
+
+
+download YouTubeTranscriptApi:
+pip install youtube-transcript-api
+
+
+
+download Whisper:
+pip install openai-whisper
+
+download tkinter:
+pip install tk
+
+download yt-dlp:
+pip install yt-dlp
+
+check the website for optional requirements:
+https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file
+
+run python3 gui.py  to start the app
